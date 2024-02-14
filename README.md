@@ -5,13 +5,16 @@ Explore this selected list of resources about [Airbyte](https://airbyte.com/).
 Contributions are welcome! If you have a resource that deserves a spot here, please share.  
 New items are added to the top of each section, ensuring the latest resources are always easy to find.
 
-## Contents
-- [Get Started](#get-started)
-- [Community Connector Developer Kits](#community-connector-developer-kits)
-- [Community Managed Projects](#community-managed-projects)
-- [Conference Videos](#conference-videos)
-- [Blogposts](#blogposts)
-- [Modern Data Pipeline Projects](#modern-data-pipeline-projects)
+# Content
+
+- [1. Get Started](#get-started)
+- [2. Community Connector Developer Kits](#community-connector-developer-kits)
+- [3. Community Managed Projects](#community-managed-projects)
+- [4. Conference Videos](#conference-videos)
+- [5. Blogposts](#blogposts)
+- [6.  Modern Data Pipeline Projects](#modern-data-pipeline-projects)
+
+---
 
 ## Get Started
 - [Airbyte Documentation](https://docs.airbyte.com/)
