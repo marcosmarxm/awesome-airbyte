@@ -10,13 +10,16 @@ New items are added to the top of each section, ensuring the latest resources ar
 - [Community Connector Developer Kits](#community-connector-developer-kits)
 - [Community Managed Projects](#community-managed-projects)
 - [Conference Videos](#conference-videos)
+- [Blogposts](#blogposts)
+- [Modern Data Pipeline Projects](#modern-data-pipeline-projects)
 
 ## Get Started
 - [Airbyte Documentation](https://docs.airbyte.com/)
 - [Airbyte Connector Catalog](https://docs.airbyte.com/integrations/)
 - [Airbyte Connector Source Code](https://github.com/airbytehq/airbyte/)
 - [Airbyte Platform Source Code](https://github.com/airbytehq/airbyte-platform/)
-- [Roadmap](https://github.com/orgs/airbytehq/projects/37/views/1) 
+- [Roadmap](https://github.com/orgs/airbytehq/projects/37/views/1)
+- [Quickstarts](https://airbyte.com/quickstarts)
 
 ## Community Connector Developer Kits
 - [TypeScript](https://github.com/faros-ai/airbyte-connectors)
@@ -30,6 +33,10 @@ New items are added to the top of each section, ensuring the latest resources ar
 ## Conference Videos
 - [move(data) 2023 Playlist](https://www.youtube.com/watch?v=SYEj0MAAz7I&list=PLgyvStszwUHgCHuUUuXKZJxNex5hQP00t)
 - [move(data) 2022 Playlist](https://www.youtube.com/watch?v=-Fzl93zRcxM&list=PLgyvStszwUHjko19Z3PxkBxApbxgVjWp8)
+
+## Blogposts
+- [Integrating Airbyte with Data Orchestrators: Airflow, Dagster and Prefect
+](https://airbyte.com/blog/integrating-airbyte-with-data-orchestrators-airflow-dagster-and-prefect)
 
 ## Modern Data Pipeline Projects
 - [Airbyte Data Pipelines Lab](https://github.com/kzzzr/airbyte_lab) Deploy Airbyte using Terraform, Github Codespace and Actions.
