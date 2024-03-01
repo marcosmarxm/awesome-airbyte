@@ -29,7 +29,7 @@ New items are added to the top of each section, ensuring the latest resources ar
 - [.NET](https://github.com/mrhamburg/airbyte.cdk.dotnet)
 
 ## Community Managed Projects
-- [Airbyte Serveless](https://github.com/unytics/airbyte_serverless)
+- [Airbyte Serverless](https://github.com/unytics/airbyte_serverless)
 - [Airbyte Kubernetes Operator](https://github.com/zncdata-labs/airbyte-operator)
 - [Airbyte Client using Rust](https://github.com/agyleOS/airbyte_client)
 
