@@ -46,3 +46,8 @@ New items are added to the top of each section, ensuring the latest resources ar
 - [Airbyte + Airflow Pipeline](https://github.com/marcosmarxm/airflow-summit-airbyte-2022) Example project how to use Airbyte and Airflow with Github version controled code for connectors and DAGs.
 
 
+
+
+## Public Data APIs (Apify)
+
+- [Public Records automation recipes](https://github.com/GeminiGeorge22/publicrecords-automation-recipes) - Kestra, Prefect, Dagster, Pipedream, Windmill, Node-RED, Activepieces and Airbyte recipes that pull public data via Apify Actors on your own account.
